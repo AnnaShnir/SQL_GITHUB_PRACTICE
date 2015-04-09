@@ -40,7 +40,11 @@ Sears|laptop bag
 
 
 All the attributes from all purchases made at Toys R Us
-**answer**
+1|Sears|PS4|1|400.0|January 21 2014
+4|Sears|Lego Set|1|40.0|January 21 2014
+15|Sears|Packers Jersey|1|50.0|March 24 2014
+17|Sears|laptop bag|24|40.5|March 24 2014
+
 The item name of each purchase made at Strand.
 **answer**
 The total number of items Peter purchased
