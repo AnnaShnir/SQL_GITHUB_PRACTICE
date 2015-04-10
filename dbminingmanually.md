@@ -67,7 +67,9 @@ All the attributes of receipts where Peter bought multiple items.
 17|Sears|laptop bag|24|40.5|March 24 2014
 
 The average number of items purchased on a trip to JC Penny
+<!-- SELECT AVG(number_of_items) FROM receipts WHERE store = "JC Penny"; -->
+1.66666666666667
 
 
 Great, now add a new receipt representing the purchase of a single "Heatstreet Maple Bourbon", purchased for $40.99 at "Schnapps Haus" on the most recent fourth of July.
-**answer**
+"check"
