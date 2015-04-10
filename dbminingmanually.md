@@ -40,15 +40,32 @@ Sears|laptop bag
 
 
 All the attributes from all purchases made at Toys R Us
-**answer**
+1|Sears|PS4|1|400.0|January 21 2014
+4|Sears|Lego Set|1|40.0|January 21 2014
+15|Sears|Packers Jersey|1|50.0|March 24 2014
+17|Sears|laptop bag|24|40.5|March 24 2014
+
+
 The item name of each purchase made at Strand.
-**answer**
+5|Strand|Blood Meridian|3|12.0|March 21 2014
+6|Strand|Ham on Rye|2|12.0|March 21 2014
+
+
 The total number of items Peter purchased
-**answer**
+17
+
 The total number of items purchased at Sears
-**answer**
+4
+
+
 All the attributes of receipts where Peter bought multiple items.
-**answer**
+5|Strand|Blood Meridian|3|12.0|March 21 2014
+6|Strand|Ham on Rye|2|12.0|March 21 2014
+8|Macy's|Button Down Shirt|3|28.5|March 22 2014
+10|JC Penny|tube socks|3|28.0|March 23 2014
+13|JC Penny|Boxer Shorts|3|20.75|March 23 2014
+17|Sears|laptop bag|24|40.5|March 24 2014
+
 The average number of items purchased on a trip to JC Penny
 **answer**
 Great, now add a new receipt representing the purchase of a single "Heatstreet Maple Bourbon", purchased for $40.99 at "Schnapps Haus" on the most recent fourth of July.
